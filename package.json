@@ -1,0 +1,6 @@
+{
+  "homepage": "https://scdtp.github.io/To-do-List",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
