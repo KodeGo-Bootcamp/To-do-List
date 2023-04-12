@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KodeGo-Bootcamp/To-do-List/static/css/main.b2573e34.css",
-    "main.js": "/KodeGo-Bootcamp/To-do-List/static/js/main.bed274a2.js",
-    "static/js/787.998e4b75.chunk.js": "/KodeGo-Bootcamp/To-do-List/static/js/787.998e4b75.chunk.js",
-    "index.html": "/KodeGo-Bootcamp/To-do-List/index.html",
-    "main.b2573e34.css.map": "/KodeGo-Bootcamp/To-do-List/static/css/main.b2573e34.css.map",
-    "main.bed274a2.js.map": "/KodeGo-Bootcamp/To-do-List/static/js/main.bed274a2.js.map",
-    "787.998e4b75.chunk.js.map": "/KodeGo-Bootcamp/To-do-List/static/js/787.998e4b75.chunk.js.map"
+    "main.css": "/To-do-List/static/css/main.b2573e34.css",
+    "main.js": "/To-do-List/static/js/main.fba8c14f.js",
+    "static/js/787.998e4b75.chunk.js": "/To-do-List/static/js/787.998e4b75.chunk.js",
+    "index.html": "/To-do-List/index.html",
+    "main.b2573e34.css.map": "/To-do-List/static/css/main.b2573e34.css.map",
+    "main.fba8c14f.js.map": "/To-do-List/static/js/main.fba8c14f.js.map",
+    "787.998e4b75.chunk.js.map": "/To-do-List/static/js/787.998e4b75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2573e34.css",
-    "static/js/main.bed274a2.js"
+    "static/js/main.fba8c14f.js"
   ]
 }
